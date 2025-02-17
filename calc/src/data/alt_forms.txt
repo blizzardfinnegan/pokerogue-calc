@@ -1,0 +1,3766 @@
+{{wst>wip|reason=Item icons are still being added}}
+
+====== Forms ======
+There are a variety of different forms that Pokémon can take on even after they reach their final natural evolution stage!
+
+Mega Evolution and Gigantamax do not revert back from switching out or turns passing. They can remain for as long as you'd like or be reverted back from an option in the Check Team menu if desired. You can activate and deactivate the form change as often as you'd like and also switch between multiple forms on the same Pokémon.
+
+Unless you splice two Pokémon that have already changed forms, a Pokémon can normally only have one form change active at a single time.
+
+Form Changes that activate via an Ability will no longer work if the Pokémon is spliced.
+
+\\
+
+===== Mega Evolutions & Primal Reversions =====
+
+All Mega Evolutions that exist [[https://bulbapedia.bulbagarden.net/wiki/Mega_Evolution|in the mainline games]] exist in PokéRogue.
+
+To Mega Evolve a Pokémon, you must first have the [[gameplay:items#passive_boosts|Mega Bracelet]] {{gameplay:items:mega_bracelet.png?nolink|}} item, and then find your Pokémon's corresponding Mega Stone.
+  *Rayquaza requires the Rayquazite Mega Stone to activate it's Mega Evolution, rather than using Dragon Ascent like in the mainline games.
+  *Primal Kyogre and Primal Groudon are also available by having a Mega Bracelet and then using the Blue or Red Orb on the Pokémon respectively.
+
+<accordion>
+<panel title="Click here to see all Mega Evolutions and their unique changes">
+{|style="width:100%;max-width:550px;text-align: center;border: 5px outset;table-layout:fixed;empty-cells:show;border-spacing: 4px;font-size:1.2em;"
+!colspan="3" style="text-align:center; font-size: 1.4em;"|Mega Table
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Venusaur\\ {{starters:sprites:3.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Overgrow \\ Chlorophyll
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**525**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||82
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|83||100
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||80
+|-
+!rowspan="8"style="text-align:center"|Mega Venusaur\\ {{starters:sprites:3-mega.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Thick Fat
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**625**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||100
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|123||122
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|120||80
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Charizard\\ {{starters:sprites:6.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Blaze \\ Solar Power
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**534**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|78||84
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|78||109
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||100
+|-
+!rowspan="8"style="text-align:center"|Mega Charizard X\\ {{starters:sprites:6-mega-x.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_dragon.png?nolink|}} \\ Tough Claws
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**634**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|78||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|111||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||100
+|-
+!rowspan="8"style="text-align:center"|Mega Charizard Y\\ {{starters:sprites:6-mega-y.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Drought
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**634**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|78||104
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|78||159
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Blastoise\\ {{starters:sprites:9.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Torrent \\ Rain Dish
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|79||83
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||78
+|-
+!rowspan="8"style="text-align:center"|Mega Blastoise\\ {{starters:sprites:9-mega.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Mega Launcher
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|79||103
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|120||135
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||78
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Beedrill\\ {{starters:sprites:15.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Swarm \\ Sniper
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**395**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|40||45
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||75
+|-
+!rowspan="8"style="text-align:center"|Mega Beedrill\\ {{starters:sprites:15-mega.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Adaptability
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**495**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|40||15
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||145
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Pidgeot\\ {{starters:sprites:18.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Keen Eye \\ Tangled Feet \\ Big Pecks
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**479**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|83||80
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||70
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||101
+|-
+!rowspan="8"style="text-align:center"|Mega Pidgeot\\ {{starters:sprites:18-mega.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ No Guard
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**579**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|83||80
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||135
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||121
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Alakazam\\ {{starters:sprites:65.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Synchronize \\ Inner Focus \\ Magic Guard
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|55||50
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|45||135
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||120
+|-
+!rowspan="8"style="text-align:center"|Mega Alakazam\\ {{starters:sprites:65-mega.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Trace
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|55||50
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||175
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||150
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Slowbro\\ {{starters:sprites:80.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_psychic.png?nolink|}} \\ Oblivious \\ Own Tempo \\ Regenerator
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**490**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|110||100
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||30
+|-
+!rowspan="8"style="text-align:center"|Mega Slowbro\\ {{starters:sprites:80-mega.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_psychic.png?nolink|}} \\ Shell Armor
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**590**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|180||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||30
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Gengar\\ {{starters:sprites:94.png?nolink|}}\\ {{gameplay:types:en_ghost.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Cursed Body
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||65
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|60||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||110
+|-
+!rowspan="8"style="text-align:center"|Mega Gengar\\ {{starters:sprites:94-mega.png?nolink|}}\\ {{gameplay:types:en_ghost.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Shadow Tag
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||65
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||170
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||130
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Kangaskhan\\ {{starters:sprites:115.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Early Bird \\ Scrappy \\ Inner Focus
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**490**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|105||95
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||40
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||90
+|-
+!rowspan="8"style="text-align:center"|Mega Kangaskhan\\ {{starters:sprites:115-mega.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Parental Bond
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**590**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|105||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Pinsir\\ {{starters:sprites:127.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Hyper Cutter \\ Mold Breaker \\ Moxie
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||85
+|-
+!rowspan="8"style="text-align:center"|Mega Pinsir\\ {{starters:sprites:127-mega.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Aerilate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||155
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|120||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||105
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Gyarados\\ {{starters:sprites:130.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Intimidate \\ Moxie
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**540**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|79||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||81
+|-
+!rowspan="8"style="text-align:center"|Mega Gyarados\\ {{starters:sprites:130-mega.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_dark.png?nolink|}} \\ Mold Breaker
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**640**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||155
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|109||70
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|130||81
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Aerodactyl\\ {{starters:sprites:142.png?nolink|}}\\ {{gameplay:types:en_rock.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Rock Head \\ Pressure \\ Unnerve
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**515**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||105
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||130
+|-
+!rowspan="8"style="text-align:center"|Mega Aerodactyl\\ {{starters:sprites:142-mega.png?nolink|}}\\ {{gameplay:types:en_rock.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Tough Claws
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**615**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||135
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|85||70
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||150
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Mewtwo\\ {{starters:sprites:150.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Pressure \\ Unnerve
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**680**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|106||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||154
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||130
+|-
+!rowspan="8"style="text-align:center"|Mega Mewtwo X\\ {{starters:sprites:150-mega-x.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:en_fighting.png?nolink|}} \\ Steadfast
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**780**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|106||190
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||154
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||130
+|-
+!rowspan="8"style="text-align:center"|Mega Mewtwo Y\\ {{starters:sprites:150-mega-y.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Insomnia
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**780**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|106||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||194
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|120||140
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Ampharos\\ {{starters:sprites:181.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Static \\ Plus
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|85||115
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||55
+|-
+!rowspan="8"style="text-align:center"|Mega Ampharos\\ {{starters:sprites:181-mega.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink|}}{{gameplay:types:en_dragon.png?nolink|}} \\ Mold Breaker
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**610**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||95
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|105||165
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||45
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Steelix\\ {{starters:sprites:208.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_ground.png?nolink|}} \\ Rock Head \\ Sturdy \\ Sheer Force
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|200||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|65||30
+|-
+!rowspan="8"style="text-align:center"|Mega Steelix\\ {{starters:sprites:208-mega.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_ground.png?nolink|}} \\ Sand Force
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**610**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|230||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||30
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Scizor\\ {{starters:sprites:212.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_steel.png?nolink|}} \\ Swarm \\ Technician \\ Light Metal
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||65
+|-
+!rowspan="8"style="text-align:center"|Mega Scizor\\ {{starters:sprites:212-mega.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_steel.png?nolink|}} \\ Technician
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|140||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||75
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Heracross\\ {{starters:sprites:214.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_fighting.png?nolink|}} \\ Swarm \\ Guts \\ Moxie
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||40
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||85
+|-
+!rowspan="8"style="text-align:center"|Mega Heracross\\ {{starters:sprites:214-mega.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink|}}{{gameplay:types:en_fighting.png?nolink|}} \\ Skill Link
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||185
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||40
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||75
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Houndoom\\ {{starters:sprites:229.png?nolink|}}\\ {{gameplay:types:en_dark.png?nolink|}}{{gameplay:types:en_fire.png?nolink|}} \\ Early Bird \\ Flash Fire \\ Unnerve
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|50||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||95
+|-
+!rowspan="8"style="text-align:center"|Mega Houndoom\\ {{starters:sprites:229-mega.png?nolink|}}\\ {{gameplay:types:en_dark.png?nolink|}}{{gameplay:types:en_fire.png?nolink|}} \\ Solar Power
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||140
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||115
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Tyranitar\\ {{starters:sprites:248.png?nolink|}}\\ {{gameplay:types:en_rock.png?nolink|}}{{gameplay:types:en_dark.png?nolink|}} \\ Sand Stream \\ Unnerve
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||134
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|110||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||61
+|-
+!rowspan="8"style="text-align:center"|Mega Tyranitar\\ {{starters:sprites:248-mega.png?nolink|}}\\ {{gameplay:types:en_rock.png?nolink|}}{{gameplay:types:en_dark.png?nolink|}} \\ Sand Stream
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||164
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|150||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|120||71
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Sceptile\\ {{starters:sprites:254.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Overgrow \\ Unburden
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||105
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||120
+|-
+!rowspan="8"style="text-align:center"|Mega Sceptile\\ {{starters:sprites:254-mega.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink|}}{{gameplay:types:en_dragon.png?nolink|}} \\ Lightning Rod
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||145
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||145
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Blaziken\\ {{starters:sprites:257.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_fighting.png?nolink|}} \\ Blaze \\ Speed Boost
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||120
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||80
+|-
+!rowspan="8"style="text-align:center"|Mega Blaziken\\ {{starters:sprites:257-mega.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_fighting.png?nolink|}} \\ Speed Boost
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||160
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Swampert\\ {{starters:sprites:260.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_ground.png?nolink|}} \\ Torrent \\ Damp
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**535**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||60
+|-
+!rowspan="8"style="text-align:center"|Mega Swampert\\ {{starters:sprites:260-mega.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_ground.png?nolink|}} \\ Swift Swim
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**635**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|110||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||70
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Gardevoir\\ {{starters:sprites:282.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:en_fairy.png?nolink|}} \\ Synchronize \\ Trace \\ Telepathy
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**518**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|68||65
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||125
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||80
+|-
+!rowspan="8"style="text-align:center"|Mega Gardevoir\\ {{starters:sprites:282-mega.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink|}}{{gameplay:types:en_fairy.png?nolink|}} \\ Pixilate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**618**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|68||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||165
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|135||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Sableye\\ {{:starters:sprites:302.png?nolink|}}\\ {{gameplay:types:en_dark.png?nolink|}}{{gameplay:types:en_ghost.png?nolink|}} \\ Keen Eye \\ Stall \\ Prankster
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**380**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|50||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|65||50
+|-
+!rowspan="8"style="text-align:center"|Mega Sableye\\ {{starters:sprites:302-mega.png?nolink|}}\\ {{gameplay:types:en_dark.png?nolink|}}{{gameplay:types:en_ghost.png?nolink|}} \\ Magic Bounce
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**480**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|50||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|125||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||20
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Mawile\\ {{:starters:sprites:303.png?nolink|}}\\ {{gameplay:types:en_steel.png?40&nolink|}} {{gameplay:types:en_fairy.png?nolink|}} \\ Hyper Cutter \\ Intimidate \\ Sheer Force
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**380**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|50||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|85||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|55||50
+|-
+!rowspan="8"style="text-align:center"|Mega Mawile\\ {{starters:sprites:303-mega.png?nolink|}}\\ {{gameplay:types:en_steel.png?40&nolink|}}  {{gameplay:types:en_fairy.png?nolink|}} \\ Huge Power
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**480**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|50||105
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|125||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||50
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Aggron\\ {{:starters:sprites:306.png?nolink|}}\\ {{gameplay:types:en_steel.png?40&nolink|}} {{gameplay:types:en_rock.png?nolink|}} \\ Sturdy \\ Rock Head \\ Heavy Metal
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|180||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||50
+|-
+!rowspan="8"style="text-align:center"|Mega Aggron\\ {{starters:sprites:306-mega.png?nolink|}}\\ {{gameplay:types:en_steel.png?40&nolink|}} \\ Filter
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||140
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|230||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||50
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Medicham\\ {{:starters:sprites:308.png?nolink|}}\\ {{gameplay:types:en_fighting.png?40&nolink|}} {{gameplay:types:en_psychic.png?nolink|}} \\ Pure Power \\ Telepathy
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**410**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||60
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||80
+|-
+!rowspan="8"style="text-align:center"|Mega Medicham\\ {{starters:sprites:308-mega.png?nolink|}}\\ {{gameplay:types:en_fighting.png?40&nolink|}}  {{gameplay:types:en_psychic.png?nolink|}} \\ Pure Power
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||100
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|85||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Manectric\\ {{:starters:sprites:310.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink|}} \\ Static \\ Lightning Rod \\ Minus
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**475**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|60||105
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||105
+|-
+!rowspan="8"style="text-align:center"|Mega Manectric\\ {{starters:sprites:310-mega.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink|}} \\ Intimidate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**575**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||135
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||135
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Sharpedo\\ {{:starters:sprites:319.png?nolink|}}\\ {{gameplay:types:en_water.png?40&nolink|}} {{gameplay:types:en_dark.png?nolink|}} \\ Rough Skin \\ Speed Boost
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**460**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||120
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|40||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|40||95
+|-
+!rowspan="8"style="text-align:center"|Mega Sharpedo\\ {{starters:sprites:319-mega.png?nolink|}}\\ {{gameplay:types:en_water.png?40&nolink|}}  {{gameplay:types:en_dark.png?nolink|}} \\ Strong Jaw
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**560**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||140
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|65||105
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Camerupt\\ {{:starters:sprites:323.png?nolink|}}\\ {{gameplay:types:en_fire.png?40&nolink|}} {{gameplay:types:en_ground.png?nolink|}} \\ Magma Armor \\ Solid Rock \\ Anger Point
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**460**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||100
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||105
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||40
+|-
+!rowspan="8"style="text-align:center"|Mega Camerupt\\ {{starters:sprites:323-mega.png?nolink|}}\\ {{gameplay:types:en_fire.png?40&nolink|}}  {{gameplay:types:en_ground.png?nolink|}} \\ Sheer Force
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**560**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||120
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||145
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||20
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Altaria\\ {{:starters:sprites:334.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}} {{gameplay:types:en_flying.png?nolink|}} \\ Natural Cure \\ Cloud Nine
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**490**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||70
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||70
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||80
+|-
+!rowspan="8"style="text-align:center"|Mega Altaria\\ {{starters:sprites:334-mega.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}}  {{gameplay:types:en_fairy.png?nolink|}} \\ Pixilate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**590**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|110||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||80
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Banette\\ {{:starters:sprites:354.png?nolink|}}\\ {{gameplay:types:en_ghost.png?nolink|}} \\ Insomnia \\ Frisk \\ Cursed Body
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**455**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|64||115
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||83
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|63||65
+|-
+!rowspan="8"style="text-align:center"|Mega Banette\\ {{starters:sprites:354-mega.png?nolink|}}\\ {{gameplay:types:en_ghost.png?nolink|}} \\ Prankster
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**555**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|64||165
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||93
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|83||75
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Absol\\ {{:starters:sprites:359.png?nolink|}}\\ {{gameplay:types:en_dark.png?nolink|}} \\ Pressure \\ Super Luck \\ Justified
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**465**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|60||75
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||75
+|-
+!rowspan="8"style="text-align:center"|Mega Absol\\ {{starters:sprites:359-mega.png?nolink|}}\\ {{gameplay:types:en_dark.png?nolink|}} \\ Magic Bounce
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**565**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|60||115
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||115
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Glalie\\ {{:starters:sprites:362.png?nolink|}}\\ {{gameplay:types:en_ice.png?nolink|}} \\ Inner Focus \\ Ice Body \\ Moody
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**480**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||80
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||80
+|-
+!rowspan="8"style="text-align:center"|Mega Glalie\\ {{starters:sprites:362-mega.png?nolink|}}\\ {{gameplay:types:en_ice.png?nolink|}} \\ Refrigerate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**580**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||120
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||120
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Salamence\\ {{starters:sprites:373.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}} {{gameplay:types:en_flying.png?nolink|}} \\ Intimidate \\ Moxie
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||135
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||100
+|-
+!rowspan="8"style="text-align:center"|Mega Salamence\\ {{starters:sprites:373-mega.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}}  {{gameplay:types:en_flying.png?nolink|}} \\ Aerilate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||145
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|130||120
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||120
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Metagross\\ {{starters:sprites:376.png?nolink|}}\\ {{gameplay:types:en_steel.png?40&nolink|}} {{gameplay:types:en_psychic.png?nolink|}} \\ Clear Body \\ Light Metal
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||135
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|130||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||70
+|-
+!rowspan="8"style="text-align:center"|Mega Metagross\\ {{starters:sprites:376-mega.png?nolink|}}\\ {{gameplay:types:en_steel.png?40&nolink|}}  {{gameplay:types:en_psychic.png?nolink|}} \\ Tough Claws
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||145
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|150||105
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||110
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Latias\\ {{starters:sprites:380.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}} {{gameplay:types:en_psychic.png?nolink|}} \\ Levitate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||80
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|130||110
+|-
+!rowspan="8"style="text-align:center"|Mega Latias\\ {{starters:sprites:380-mega.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}}  {{gameplay:types:en_psychic.png?nolink|}} \\ Levitate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||100
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|120||140
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|150||110
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Latios\\ {{starters:sprites:381.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}} {{gameplay:types:en_psychic.png?nolink|}} \\ Levitate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||110
+|-
+!rowspan="8"style="text-align:center"|Mega Latios\\ {{starters:sprites:381-mega.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}}  {{gameplay:types:en_psychic.png?nolink|}} \\ Levitate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||160
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|120||110
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Kyogre\\ {{starters:sprites:382.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}} \\ Drizzle
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**670**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||100
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||150
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|140||90
+|-
+!rowspan="8"style="text-align:center"|Primal Kyogre\\ {{starters:sprites:382-primal.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}} \\ Primordial Sea \\
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**770**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||180
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|160||90
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Groudon\\ {{starters:sprites:383.png?nolink|}}\\  {{gameplay:types:en_ground.png?nolink|}} \\ Drought
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**670**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|140||100
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||90
+|-
+!rowspan="8"style="text-align:center"|Primal Groudon\\ {{starters:sprites:383-primal.png?nolink|}}\\ {{gameplay:types:en_ground.png?40&nolink|}}  {{gameplay:types:en_fire.png?nolink|}} \\ Desolate Land \\
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**770**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||180
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|160||150
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||90
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Rayquaza\\ {{starters:sprites:384.png?nolink|}}\\  {{gameplay:types:en_dragon.png?40&nolink|}} {{gameplay:types:en_flying.png?nolink|}} \\ Air Lock
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**680**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|105||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||150
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||95
+|-
+!rowspan="8"style="text-align:center"|Mega Rayquaza\\ {{starters:sprites:384-mega.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}}  {{gameplay:types:en_flying.png?nolink|}} \\ Delta Stream \\
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**780**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|105||180
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||180
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||115
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Lopunny\\ {{starters:sprites:428.png?nolink|}}\\  {{gameplay:types:en_normal.png?nolink|}} \\ Cute Charm \\ Klutz \\ Limber
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**480**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||76
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|84||54
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|96||105
+|-
+!rowspan="8"style="text-align:center"|Mega Lopunny\\ {{starters:sprites:428-mega.png?nolink|}}\\ {{gameplay:types:en_normal.png?40&nolink|}}  {{gameplay:types:en_fighting.png?nolink|}} \\ Scrappy
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**580**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||136
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|94||54
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|96||135
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Garchomp\\ {{starters:sprites:445.png?nolink|}}\\  {{gameplay:types:en_dragon.png?40&nolink|}} {{gameplay:types:en_ground.png?nolink|}} \\ Sand Veil \\ Rough Skin
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|108||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|95||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||102
+|-
+!rowspan="8"style="text-align:center"|Mega Garchomp\\ {{starters:sprites:445-mega.png?nolink|}}\\ {{gameplay:types:en_dragon.png?40&nolink|}}  {{gameplay:types:en_ground.png?nolink|}} \\ Sand Force
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|108||170
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||120
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||92
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Lucario\\ {{starters:sprites:448.png?nolink|}}\\  {{gameplay:types:en_fighting.png?40&nolink|}} {{gameplay:types:en_steel.png?nolink|}} \\ Steadfast \\ Inner Focus \\ Justified
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**525**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||115
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||90
+|-
+!rowspan="8"style="text-align:center"|Mega Lucario\\ {{starters:sprites:448-mega.png?nolink|}}\\ {{gameplay:types:en_fighting.png?40&nolink|}}  {{gameplay:types:en_steel.png?nolink|}} \\ Adaptability
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**625**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||145
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|88||140
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||112
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Abomasnow\\ {{starters:sprites:460.png?nolink|}}\\  {{gameplay:types:en_grass.png?40&nolink|}} {{gameplay:types:en_ice.png?nolink|}} \\ Snow Warning \\ Soundproof
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**494**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||92
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||92
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||60
+|-
+!rowspan="8"style="text-align:center"|Mega Abomasnow\\ {{starters:sprites:460-mega.png?nolink|}}\\ {{gameplay:types:en_grass.png?40&nolink|}}  {{gameplay:types:en_ice.png?nolink|}} \\ Snow Warning
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**594**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||132
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|105||132
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||30
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Gallade\\ {{starters:sprites:475.png?nolink|}}\\  {{gameplay:types:en_psychic.png?40&nolink|}} {{gameplay:types:en_fighting.png?nolink|}} \\ Steadfast \\ Sharpness \\ Justified
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**518**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|68||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||80
+|-
+!rowspan="8"style="text-align:center"|Mega Gallade\\ {{starters:sprites:475-mega.png?nolink|}}\\ {{gameplay:types:en_psychic.png?40&nolink|}}  {{gameplay:types:en_fighting.png?nolink|}} \\ Sharpness
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**618**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|68||165
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|95||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||110
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Audino\\ {{starters:sprites:531.png?nolink|}}\\  {{gameplay:types:en_normal.png?nolink|}} \\ Healer \\ Regenerator \\ Klutz
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**445**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|103||60
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|86||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|86||50
+|-
+!rowspan="8"style="text-align:center"|Mega Audino\\ {{starters:sprites:531-mega.png?nolink|}}\\ {{gameplay:types:en_normal.png?40&nolink|}}  {{gameplay:types:en_fairy.png?nolink|}} \\ Regenerator
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**545**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|103||60
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|126||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|126||50
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Diancie\\ {{starters:sprites:719.png?nolink|}}\\  {{gameplay:types:en_rock.png?40&nolink|}} {{gameplay:types:en_fairy.png?nolink|}} \\ Clear Body
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|50||100
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|150||100
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|150||50
+|-
+!rowspan="8"style="text-align:center"|Mega Diancie\\ {{starters:sprites:719-mega.png?nolink|}}\\ {{gameplay:types:en_rock.png?40&nolink|}}  {{gameplay:types:en_fairy.png?nolink|}} \\ Magic Bounce
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|50||160
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|110||160
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||110
+|-
+|}
+</panel>
+</accordion>
+
+\\
+
+===== Gigantamax Forms =====
+
+All Gigantamax forms that exist [[https://bulbapedia.bulbagarden.net/wiki/Gigantamax#List_of_Gigantamax_Pok%C3%A9mon|in the mainline games]] are available in PokéRogue. Unlike the mainline games, each G-Max form has brand new base stat totals and abilities in PokéRogue, with some having unique types as well.
+
+To G-Max a Pokémon, you must first have the Dynamax Band {{gameplay:items:dynamax_band.png?nolink|}} item, and then find the Max Mushrooms {{gameplay:items:max_mushrooms.png?nolink|}} item.
+
+The process is the same for Eternamaxing Eternatus if they are in your party.
+
+G-Max Pokémon all weigh the maximum possible weight (999.9kg) and have no immunities to weight based moves, flinching, encore, disable, or being forcibly switched out.
+
+<accordion>
+<panel title="Click here to see all Gigantamax Forms and their base stats, abilities and types.">
+
+{|style="width:100%;max-width:550px;text-align: center;border: 5px outset;table-layout:fixed;empty-cells:show;border-spacing: 4px;font-size:1.2em;"
+!colspan="3" style="text-align:center; font-size: 1.4em;"|Gigantamax Table
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Venusaur\\ {{starters:sprites:3.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Overgrow \\ Chlorophyll
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**525**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||82
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|83||100
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||80
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Venusaur\\ {{starters:sprites:3-gigantamax.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Effect Spore
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**625**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|120||82
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|98||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||80
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Charizard\\ {{starters:sprites:6.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Blaze \\ Solar Power
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**534**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|78||84
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|78||109
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||100
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Charizard\\ {{starters:sprites:6-gigantamax.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink|}}{{gameplay:types:en_flying.png?nolink|}} \\ Berserk
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**634**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|118||84
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|93||139
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Blastoise\\ {{starters:sprites:9.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:null.png?nolink|}} \\ Torrent \\ Rain Dish
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|79||83
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|105||78
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Blastoise\\ {{starters:sprites:9-gigantamax.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}}{{gameplay:types:en_steel.png?nolink|}} \\ Shell Armor
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|119||83
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|135||115
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||68
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Butterfree\\ {{starters:sprites:12.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink}}{{gameplay:types:en_flying.png?nolink}} \\ Compound Eyes\\ Tinted Lens
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**395**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||45
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|50||90
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||70
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Butterfree\\ {{starters:sprites:12-gigantamax.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink}}{{gameplay:types:en_flying.png?nolink}} \\ Compound Eyes
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**495**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|85||35
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||120
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||85
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Pikachu\\ {{starters:sprites:25.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink}}\\ Static\\ Lightning Rod
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**320**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|35||55
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|40||50
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|50||90
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Pikachu\\ {{starters:sprites:25-gigantamax.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink}} \\ Lightning Rod
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|125||95
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|60||90
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||90
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Meowth\\ {{:starters:sprites:52.png?nolink|}} \\ {{gameplay:types:en_normal.png?nolink}} \\ Pickup\\ Technician\\ Unnerve
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**290**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|40||45
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|35||40
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|40||90
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Meowth\\ {{:starters:sprites:52-gigantamax.png?nolink|}} \\ {{gameplay:types:en_normal.png?nolink}}\\ Technician
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**540**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|115||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||115
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Machamp\\ {{:starters:sprites:68.png?nolink|}} \\ {{gameplay:types:en_fighting.png?nolink}} \\ Guts\\ No Guard\\ Steadfast
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**505**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||55
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Machamp\\ {{:starters:sprites:68-gigantamax.png?nolink|}} \\ {{gameplay:types:en_fighting.png?nolink}}\\ Guts
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**605**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|115||170
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|95||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||65
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Gengar\\ {{starters:sprites:94.png?nolink|}}\\ {{gameplay:types:en_ghost.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Cursed Body
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||65
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|60||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||110
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Gengar\\ {{starters:sprites:94-gigantamax.png?nolink|}}\\ {{gameplay:types:en_ghost.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Cursed Body
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|140||65
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||140
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Kingler\\ {{starters:sprites:99.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink|}} \\ Hyper Cutter\\ Shell Armor\\ Sheer Force
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**475**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|55||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||50
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|50||75
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Kingler\\ {{starters:sprites:99-gigantamax.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink}} \\ Tough Claws
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**575**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||155
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|140||50
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||70
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Lapras\\ {{starters:sprites:131.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink}}{{gameplay:types:en_ice.png?nolink}}\\ Water Absorb\\ Shell Armor\\ Hydration
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**535**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|130||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||60
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Lapras\\ {{starters:sprites:131-gigantamax.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink}}{{gameplay:types:en_ice.png?nolink}} \\ Shield Dust
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**635**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|170||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|85||105
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|130||60
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Eevee\\ {{starters:sprites:133.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink}} \\ Run Away\\ Adaptability\\ Anticipation
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**325**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|55||55
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|50||45
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|65||55
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Eevee\\ {{starters:sprites:133-gigantamax.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink}} \\ Protean
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**535**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||85
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Snorlax\\ {{starters:sprites:143.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink}} \\ Immunity\\ Thick Fat\\ Gluttony
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**540**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|160||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||30
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Snorlax\\ {{starters:sprites:143-gigantamax.png?nolink|}}\\ {{gameplay:types:en_normal.png?nolink}} \\ Harvest
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**640**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|200||135
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|125||20
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Garbodor\\ {{starters:sprites:569.png?nolink|}}\\ {{gameplay:types:en_poison.png?nolink}}\\ Stench\\ Weak Armor\\ Aftermath
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**474**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||95
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|82||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|82||75
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Garbodor\\ {{starters:sprites:569-gigantamax.png?nolink|}}\\ {{gameplay:types:en_poison.png?nolink}} {{gameplay:types:en_steel.png?nolink}} \\ Toxic Debris
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**574**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|135||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|102||57
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|102||53
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Melmetal\\ {{starters:sprites:809.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink}}\\ Iron Fist
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|135||143
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|143||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|65||34
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Melmetal\\ {{starters:sprites:809-gigantamax.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink}} \\ Iron Fist
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**700**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|175||165
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|155||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||45
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Rillaboom\\ {{starters:sprites:812.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink}}\\ Overgrow\\ Grassy Surge
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||125
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||60
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||85
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Rillaboom\\ {{starters:sprites:812-gigantamax.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink}} \\ Grassy Surge
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|125||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|105||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||80
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Cinderace\\ {{starters:sprites:815.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink}}\\ Blaze\\ Libero
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||116
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||119
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Cinderace\\ {{starters:sprites:815-gigantamax.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink}} \\ Libero
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||146
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||90
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||134
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Inteleon\\ {{starters:sprites:818.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink}}\\ Torrent\\ Sniper
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**530**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||125
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|65||120
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Inteleon\\ {{starters:sprites:818-gigantamax.png?nolink|}}\\ {{gameplay:types:en_water.png?nolink}}\\ Sniper
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**630**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||97
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|77||147
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|77||137
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Corviknight\\ {{starters:sprites:823.png?nolink|}}\\ {{gameplay:types:en_flying.png?nolink}} {{gameplay:types:en_steel.png?nolink}} \\ Pressure\\ Unnerve\\ Mirror Armor
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**495**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|98||87
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|105||53
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||67
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Corviknight\\ {{starters:sprites:823-gigantamax.png?nolink|}}\\ {{gameplay:types:en_flying.png?nolink}} {{gameplay:types:en_steel.png?nolink}} \\ Mirror Armor
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**595**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|128||102
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|140||53
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||77
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Orbeetle\\ {{starters:sprites:826.png?nolink|}}\\  {{gameplay:types:en_bug.png?nolink}} {{gameplay:types:en_psychic.png?nolink}} \\ Swarm\\ Frisk\\ Telepathy
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**505**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|60||45
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|110||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|120||90
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Orbeetle\\ {{starters:sprites:826-gigantamax.png?nolink|}}\\ {{gameplay:types:en_bug.png?nolink}} {{gameplay:types:en_psychic.png?nolink}} \\ Trace
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**605**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||45
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|130||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|140||90
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Drednaw\\ {{starters:sprites:834.png?nolink|}}\\  {{gameplay:types:en_water.png?nolink}} {{gameplay:types:en_rock.png?nolink}} \\ Strong Jaw\\ Shell Armor\\ Swift Swim
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**485**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||115
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||48
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|68||74
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Drednaw\\ {{:starters:sprites:834-gigantamax.png?nolink|}} \\ {{gameplay:types:en_water.png?nolink}} {{gameplay:types:en_rock.png?nolink}} \\ Strong Jaw
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**585**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|115||145
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||43
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|83||84
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Coalossal\\ {{starters:sprites:839.png?nolink|}}\\ {{gameplay:types:en_rock.png?nolink}} {{gameplay:types:en_fire.png?nolink}} \\ Steam Engine\\ Flame Body\\ Flash Fire
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||80
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|120||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||30
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Coalossal\\ {{:starters:sprites:839-gigantamax.png?nolink|}} \\ {{gameplay:types:en_rock.png?nolink}} {{gameplay:types:en_fire.png?nolink}} \\ Steam Engine
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**610**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|140||95
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|130||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|110||40
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Flapple\\ {{starters:sprites:841.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Ripen\\ Gluttony\\ Hustle
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**485**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||110
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||70
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Flapple\\ {{:starters:sprites:841-gigantamax.png?nolink|}} \\ {{gameplay:types:en_grass.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Hustle
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**585**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|90||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||85
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||100
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Appletun\\ {{starters:sprites:842.png?nolink|}}\\ {{gameplay:types:en_grass.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Ripen\\ Gluttony\\ Thick Fat
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**485**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|80||100
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||30
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Appletun\\ {{:starters:sprites:842-gigantamax.png?nolink|}} \\ {{gameplay:types:en_grass.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Thick Fat
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**585**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|130||75
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||125
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|115||25
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Sandaconda\\ {{starters:sprites:844.png?nolink|}}\\ {{gameplay:types:en_ground.png?nolink}} \\ Sand Spit\\ Shed Skin\\ Sand Veil
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|72||107
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|125||65
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||71
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Sandaconda\\ {{:starters:sprites:844-gigantamax.png?nolink|}} \\ {{gameplay:types:en_ground.png?nolink}} \\ Sand Spit
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**610**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|117||137
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|140||55
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|80||81
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Toxtricity\\ {{:starters:sprites:849-amped.png?nolink|}}\\ {{gameplay:types:en_electric.png?nolink}} {{gameplay:types:en_poison.png?nolink}} \\ Punk Rock\\ Plus\\ Technician
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**502**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|75||98
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|70||114
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|70||75
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Toxtricity\\ {{:starters:sprites:849-gigantamax.png?nolink|}} \\ {{gameplay:types:en_electric.png?nolink}} {{gameplay:types:en_poison.png?nolink}} \\ Punk Rock
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**602**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|114||98
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|82||144
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|82||82
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Centiskorch\\ {{:starters:sprites:851.png?nolink|}}\\ {{gameplay:types:en_fire.png?nolink}} {{gameplay:types:en_bug.png?nolink}} \\ Flash Fire\\ White Smoke\\ Flame Body
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**525**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||115
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||90
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|90||65
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Centiskorch\\ {{:starters:sprites:851-gigantamax.png?nolink|}} \\ {{gameplay:types:en_fire.png?nolink}} {{gameplay:types:en_bug.png?nolink}} \\ Flash Fire
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**625**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|140||145
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||90
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|100||75
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Hatterene\\ {{:starters:sprites:858.png?nolink|}}\\ {{gameplay:types:en_psychic.png?nolink}} {{gameplay:types:en_fairy.png?nolink}} \\ Healer\\ Anticipation\\ Magic Bounce
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|57||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|95||136
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|103||29
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Hatterene\\ {{:starters:sprites:858-gigantamax.png?nolink|}} \\ {{gameplay:types:en_psychic.png?nolink}} {{gameplay:types:en_fairy.png?nolink}} \\ Magic Bounce
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**610**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|97||90
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|105||146
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|122||50
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Grimmsnarl\\ {{:starters:sprites:861.png?nolink|}}\\ {{gameplay:types:en_fairy.png?nolink}} {{gameplay:types:en_dark.png?nolink}} \\ Prankster\\ Frisk\\ Pickpocket
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**510**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|95||120
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|65||95
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|75||60
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Grimmsnarl\\ {{:starters:sprites:861-gigantamax.png?nolink|}} \\ {{gameplay:types:en_fairy.png?nolink}} {{gameplay:types:en_dark.png?nolink}} \\ Prankster
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**610**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|135||138
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|77||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|85||65
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Alcremie\\ {{:starters:sprites:869.png?nolink|}}\\ {{gameplay:types:en_fairy.png?nolink}} \\  Sweet Veil\\ Aroma Veil
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**495**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|65||60
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||110
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|121||64
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Alcremie\\ {{:starters:sprites:869-gigantamax.png?nolink|}} \\ {{gameplay:types:en_fairy.png?nolink}} \\  Misty Surge
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**595**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|135||60
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|75||130
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|131||64
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Copperajah\\ {{:starters:sprites:879.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink}} \\  Sheer Force\\ Heavy Metal
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|122||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|69||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|69||30
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Copperajah\\ {{:starters:sprites:879-gigantamax.png?nolink|}} \\ {{gameplay:types:en_steel.png?nolink}} {{gameplay:types:en_ground.png?nolink}} \\  Mold Breaker
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|167||155
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|89||80
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|89||20
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Duraludon\\ {{:starters:sprites:884.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Light Metal\\ Heavy Metal\\ Stalwart
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**535**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|70||95
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||120
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|50||85
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Duraludon\\ {{:starters:sprites:884-gigantamax.png?nolink|}} \\ {{gameplay:types:en_steel.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Lightning Rod
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**635**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|105||105
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|120||175
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||70
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Urshifu Single Strike\\ {{:starters:sprites:892-single-strike.png?nolink|}}\\ {{gameplay:types:en_fighting.png?nolink}} {{gameplay:types:en_dark.png?nolink}} \\ Unseen Fist
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**550**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||63
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||97
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Urshifu Single Strike\\ {{:starters:sprites:892-gigantamax-single.png?nolink|}} \\ {{gameplay:types:en_fighting.png?nolink}} {{gameplay:types:en_dark.png?nolink}} \\ Unseen Fist
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**650**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|125||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||73
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|117||70
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Urshifu Rapid Strike\\ {{:starters:sprites:892-rapid-strike.png?nolink|}}\\ {{gameplay:types:en_fighting.png?nolink}} {{gameplay:types:en_water.png?nolink}} \\ Unseen Fist
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**550**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|100||130
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||63
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|60||97
+|-
+!rowspan="8"style="text-align:center"|Gigantamax\\ Urshifu Rapid Strike\\ {{:starters:sprites:892-gigantamax-rapid.png?nolink|}} \\ {{gameplay:types:en_fighting.png?nolink}} {{gameplay:types:en_water.png?nolink}}\\ Unseen Fist
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**650**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|125||150
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|115||73
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|117||70
+|-
+!colspan="3" style="text-align:center;height: 25px"|
+|-
+<nowiki></nowiki>
+|-
+!rowspan="8"style="text-align:center"|Eternatus\\ {{:starters:sprites:890.png?nolink|}}\\ {{gameplay:types:en_poison.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Pressure
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**690**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|140||85
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|95||145
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|95||130
+|-
+!rowspan="8"style="text-align:center"|Eternamax\\ Eternatus\\ {{:starters:sprites:890-eternamax.png?nolink|}} \\ {{gameplay:types:en_poison.png?nolink}} {{gameplay:types:en_dragon.png?nolink}} \\ Pressure
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**1125**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|255||115
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|250||125
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|250||130
+|-
+|}
+
+</panel>
+</accordion>
+
+\\
+
+===== Form Change By Item =====
+
+To have the form change item show on the item selection screen, you must have the Pokémon in your party, these items are in either the {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc> or {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828>Rogue</fc> Tier.
+
+Unless noted otherwise, you can freely swap between these forms after obtaining the requisite item in the after battle Rewards/Shop screen by pressing the "Check Team" button and choosing the Pokémon with the form change, you can Deactivate or Activate Form Change Items from this screen.
+
+<accordion>
+<panel title="Click here to see all Pokémon with form changes by item">
+{| style="text-align:center"
+! style="text-align:center; padding:0px 75px" | Pokémon
+! style="text-align:center; padding:0px 75px" | Form
+! style="text-align:center; padding:0px 40px" | Tier
+! style="text-align:center; padding:0px 40px" | Item Used
+! style="text-align:center; padding:0px 150px" | Notes
+|-
+|  rowspan="3" | **Deoxys \\ Normal Forme** \\ {{:starters:sprites:386.png?nolink|}}
+|  **Attack Forme** \\ {{:starters:sprites:386-attack.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Sharp Meteorite \\ {{gameplay:items:sharp_meteorite.png?nolink|}}
+|
+|-
+|  **Defense Forme** \\ {{:starters:sprites:386-defense.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Hard Meteorite \\ {{gameplay:items:hard_meteorite.png?nolink|}}
+|
+|-
+|  **Speed Forme** \\ {{:starters:sprites:386-speed.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Smooth Meteorite \\ {{gameplay:items:smooth_meteorite.png?nolink|}}
+|
+|-
+|  **Dialga** \\ {{:starters:sprites:483.png?nolink|}}
+|  **Origin Forme** \\ {{:starters:sprites:483-origin.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Adamant Crystal \\ {{gameplay:items:adamant_crystal.png?nolink|}}
+|
+|-
+|  **Palkia** \\ {{:starters:sprites:484.png?nolink|}}
+|  **Origin Forme** \\ {{:starters:sprites:484-origin.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Lustrous Globe \\ {{gameplay:items:lustrous_globe.png?nolink|}}
+|
+|-
+|  **Giratina \\ Altered Forme** \\ {{:starters:sprites:487-altered.png?nolink|}}
+|  **Origin Forme** \\ {{:starters:sprites:487-origin.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Griseous Core \\ {{gameplay:items:griseous_core.png?nolink|}}
+|
+|-
+|  **Shaymin \\ Land Forme** \\ {{:starters:sprites:492-land.png?nolink|}}
+|  **Sky Forme** \\ {{:starters:sprites:492-sky.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36 >Ultra</fc>
+|  Gracidea \\ {{gameplay:items:gracidea.png?nolink|}}
+|
+|-
+|  **Tornadus \\ Incarnate Forme** \\ {{:starters:sprites:641-incarnate.png?nolink|}}
+|  **Therian Forme** \\ {{:starters:sprites:641-therian.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Reveal Glass \\ {{:gameplay:items:Reveal_Glass.png?nolink|}}
+|
+|-
+|  **Thundurus \\ Incarnate Forme** \\ {{:starters:sprites:642-incarnate.png?nolink|}}
+|  **Therian Forme** \\ {{:starters:sprites:642-therian.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Reveal Glass \\ {{:gameplay:items:Reveal_Glass.png?nolink|}}
+|
+|-
+|  **Landorus \\ Incarnate Forme** \\ {{:starters:sprites:645-incarnate.png?nolink|}}
+|  **Therian Forme** \\ {{:starters:sprites:645-therian.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Reveal Glass \\ {{:gameplay:items:Reveal_Glass.png?nolink|}}
+|
+|-
+|  **Enamorus \\ Incarnate Forme** \\ {{:starters:sprites:905-incarnate.png?nolink|}}
+|  **Therian Forme** \\ {{:starters:sprites:905-therian.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Reveal Glass \\ {{:gameplay:items:Reveal_Glass.png?nolink|}}
+|
+|-
+|  rowspan="2" |  **Kyurem** \\ {{:starters:sprites:646.png?nolink|}}
+|  **Black** \\ {{:starters:sprites:646-black.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Dark Stone \\ {{gameplay:items:dark_stone.png?nolink|}}
+|  Must have caught or hatched Zekrom at least once.
+|-
+|  **White** \\ {{:starters:sprites:646-white.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Light Stone \\ {{gameplay:items:light_stone.png?nolink|}}
+|  Must have caught or hatched Reshiram at least once.
+|-
+|  rowspan="4" |  **Genesect** \\ {{:starters:sprites:649.png?nolink|}}
+|  **Shock** \\ {{:starters:sprites:649-shock.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Shock Drive \\ {{gameplay:items:shock_drive.png?nolink|}}
+|  Only affects its Techno Blast attack.
+|-
+|  **Burn** \\ {{:starters:sprites:649-burn.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Burn Drive \\ {{gameplay:items:burn_drive.png?nolink|}}
+|  Only affects its Techno Blast attack.
+|-
+|  **Chill** \\ {{:starters:sprites:649-chill.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Chill Drive \\ {{gameplay:items:chill_drive.png?nolink|}}
+|  Only affects its Techno Blast attack.
+|-
+|  **Douse** \\ {{:starters:sprites:649-Douse.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Douse Drive \\ {{gameplay:items:douse_drive.png?nolink|}}
+|  Only affects its Techno Blast attack.
+|-
+|  **Hoopa \\ Confined** \\ {{:starters:sprites:720.png?nolink|}}
+|  **Unbound** \\ {{:starters:sprites:720-unbound.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Prison Bottle \\ {{gameplay:items:prison_bottle.png?nolink|}}
+|
+|-
+|  rowspan="3" |  **Necrozma** \\ {{:starters:sprites:800.png?nolink|}}
+|  **Dawn Wings** \\ {{:starters:sprites:800-dawn-wings.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  N-Lunarizer \\ {{gameplay:items:n_lunarizer.png?nolink|}}
+|  Must have caught Lunala or evolved Cosmoem into Lunala at least once.
+|-
+|  **Dusk Mane** \\ {{:starters:sprites:800-dusk-mane.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  N-Solarizer \\ {{gameplay:items:n_solarizer.png?nolink|}}
+|  Must have caught Solgaleo or evolved Cosmoem into Solgaleo at least once.
+|-
+|  **Ultra** \\ {{:starters:sprites:800-ultra.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Ultranecrozium Z \\ {{gameplay:items:ultranecrozium_z.png?nolink|}}
+|  Must first be in Dawn Wings or Dusk Mane form.
+|-
+|  **Zacian \\ Hero of Many Battles** \\ {{:starters:sprites:888.png?nolink|}}
+|  **Crowned Sword** \\ {{:starters:sprites:888-crowned.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Rusted Sword \\ {{gameplay:items:rusted_sword.png?nolink|}}
+|
+|-
+|  **Zamazenta \\ Hero of Many Battles** \\ {{:starters:sprites:889.png?nolink|}}
+|  **Crowned Shield** \\ {{:starters:sprites:889-crowned.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Rusted Shield \\ {{gameplay:items:rusted_shield.png?nolink|}}
+|
+|-
+|  rowspan="2" |  **Calyrex** \\ {{:starters:sprites:898.png?nolink|}}
+|  **Ice Rider** \\ {{:starters:sprites:898-ice.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Icy Reins of Unity \\ {{gameplay:items:icy_reins_of_unity.png?nolink|}}
+|  Must have caught or hatched Glastrier at least once.
+|-
+|  **Shadow Rider** \\ {{:starters:sprites:898-shadow.png?nolink|}}
+|  {{gameplay:balls:rb2.png?nolink|}} <fc #cf2828 >Rogue</fc>
+|  Shadow Reins of Unity \\ {{gameplay:items:shadow_reins_of_unity.png?nolink|}}
+|  Must have caught or hatched Spectrier at least once.
+|-
+|  rowspan="3" |  **Ogerpon \\ Teal Mask** \\ {{:starters:sprites:1017-teal-mask.png?nolink|}}
+|  **Wellspring Mask** \\ {{:starters:sprites:1017-wellspring-mask.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Wellspring Mask \\ {{gameplay:items:wellspring_mask.png?nolink|}}
+|
+|-
+|  **Hearthflame Mask** \\ {{:starters:sprites:1017-hearthflame-mask.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Hearthflame Mask \\ {{gameplay:items:hearthflame_mask.png?nolink|}}
+|
+|-
+|  **Cornerstone Mask** \\ {{:starters:sprites:1017-cornerstone-mask.png?nolink|}}
+|  {{gameplay:balls:ub2.png?nolink|}} <fc #f1ca36>Ultra</fc>
+|  Cornerstone Mask \\ {{gameplay:items:cornerstone_mask.png?nolink|}}
+|
+|}
+</panel>
+</accordion>
+
+\\
+
+===== Partner Eevee & Pikachu =====
+Eevee and Pikachu have their partner forms from Let's Go Eevee & Let's Go Pikachu, in PokéRogue these forms gain increased base stats compared to their base forms and can still evolve or Gigantamax.
+
+{| style="text-align:center"
+! style="text-align:center; padding:0px 100px" | Pokémon
+! style="text-align:center; padding:0px 20px" | HP
+! style="text-align:center; padding:0px 20px" | ATK
+! style="text-align:center; padding:0px 20px" | DEF
+! style="text-align:center; padding:0px 20px" | SpATK
+! style="text-align:center; padding:0px 20px" | SpDEF
+! style="text-align:center; padding:0px 20px" | SPD
+! style="text-align:center; padding:0px 20px" | TOTAL
+|-
+|**Eevee** \\ {{:starters:sprites:133.png?nolink|}}
+| 65
+| 75
+| 70
+| 65
+| 85
+| 75
+| **435**
+|-
+|**Pikachu** \\ {{:starters:sprites:25.png?nolink|}}
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|}
+
+\\
+
+===== Cosplay Pikachu =====
+Pikachu has its cosplay forms from Omega Ruby & Alpha Sapphire, in PokéRogue these forms gain increased base stats compared to their base form as well as an additional move. They cannot evolve or Gigantamax.
+
+<accordion>
+<panel title="Click here to see all Cosplay Pikachu Forms, their additional moves, and increased base stats">
+{| style="text-align:center"
+! style="text-align:center; padding:0px 100px" | Pokémon
+! style="text-align:center; padding:0px 50px" | Move
+! style="text-align:center; padding:0px 20px" | HP
+! style="text-align:center; padding:0px 20px" | ATK
+! style="text-align:center; padding:0px 20px" | DEF
+! style="text-align:center; padding:0px 20px" | SpATK
+! style="text-align:center; padding:0px 20px" | SpDEF
+! style="text-align:center; padding:0px 20px" | SPD
+! style="text-align:center; padding:0px 20px" | TOTAL
+|-
+|**Cosplay** \\ {{:starters:sprites:25-cosplay.png?nolink|}}
+| N/A
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|-
+|**Beauty Cosplay** \\ {{:starters:sprites:25-beauty-cosplay.png?nolink|}}
+| Icicle Crash
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|-
+|**Cool Cosplay** \\ {{:starters:sprites:25-cool-cosplay.png?nolink|}}
+| Meteor Mash
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|-
+|**Cute Cosplay** \\ {{:starters:sprites:25-cute-cosplay.png?nolink|}}
+| Draining Kiss
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|-
+|**Smart Cosplay** \\ {{:starters:sprites:25-smart-cosplay.png?nolink|}}
+| Electric Terrain
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|-
+|**Tough Cosplay** \\ {{:starters:sprites:25-tough-cosplay.png?nolink|}}
+| Flying Press
+| 45
+| 80
+| 50
+| 75
+| 60
+| 120
+| **430**
+|}
+</panel>
+</accordion>
+
+\\
+
+===== Other Form Changes =====
+//This does not include every form in the game.//
+
+<accordion>
+<panel title="Click here to see all Pokémon with form changes by method">
+{| style="text-align:center"
+! style="text-align:center; padding:0px 75px" | Pokémon
+! style="text-align:center; padding:0px 75px" | Form
+! style="text-align:center; padding:0px 150px" | Method
+! style="text-align:center; padding:0px 150px" | Notes
+|-
+|  rowspan="3" |  **Castform** \\ {{:starters:sprites:351.png?nolink|}}
+|  **Sunny** \\ {{:starters:sprites:351-sunny.png?nolink|}}
+|  When the active weather is Sunny.
+|  Changes back or into another form if weather changes.
+|
+|-
+|  **Rainy** \\ {{:starters:sprites:351-rainy.png?nolink|}}
+|  When the active weather is Rain.
+|  Changes back or into another form if weather changes.
+|
+|-
+|  **Snowy** \\ {{:starters:sprites:351-snowy.png?nolink|}}
+|  When the active weather is Hail or Snow.
+|  Changes back or into another form if weather changes.
+|
+|-
+|  **Cherrim** \\ {{:starters:sprites:421-overcast.png?nolink|}}
+|  **Sunshine** \\ {{:starters:sprites:421-sunshine.png?nolink|}}
+|  When the active weather is Sunny.
+|  Changes back if weather changes.
+|
+|-
+|  **Darmanitan** \\ {{:starters:sprites:555.png?nolink|}}
+|  **Zen** \\ {{:starters:sprites:555-zen.png?nolink|}}
+|  rowspan="2" |  Reach 50% or less of max HP.
+|  rowspan="2" |  Going back above 50% will \\ return Darmanitan to normal.
+|-
+|  **Galarian Darmanitan** \\ {{:starters:sprites:4555.png?nolink|}}
+|  **Galarian Zen** \\ {{:starters:sprites:4555-zen.png?nolink|}}
+|-
+|  **Keldeo** \\ {{:starters:sprites:647-ordinary.png?nolink|}}
+|  **Resolute** \\ {{:starters:sprites:647-resolute.png?nolink|}}
+|  Learn Secret Sword.
+|
+|-
+|  **Meloetta** \\ {{:starters:sprites:648-aria.png?nolink|}}
+|  **Pirouette** \\ {{:starters:sprites:648-pirouette.png?nolink|}}
+|  Use Relic Song.
+|  Using it again will change \\ Meloetta back to Aria form. \\ Once used during a run, you will be able to select Pirouette Form as a starting form during Starter Select.
+|-
+|  **Greninja** \\ {{:starters:sprites:658.png?nolink|}}
+|  **Ash** \\ {{:starters:sprites:658-ash.png?nolink|}}
+|  KO an opponent with the ability Battle Bond.
+|  Reverts out of Ash form whenever Greninja is recalled into its Poké Ball.
+|-
+|  rowspan="2" |  **Aegislash** \\ {{:starters:sprites:681.png?nolink|}}
+|  **Sword** \\ {{:starters:sprites:681-blade.png?nolink|}}
+|  Use an attack move.
+|
+|-
+|  **Shield** \\ {{:starters:sprites:681.png?nolink|}}
+|  Use King's Shield.
+|
+|-
+|  rowspan="2" |  **Zygarde** \\ {{:starters:sprites:718.png?nolink|}}
+|  **Complete** \\ {{:starters:sprites:718-complete.png?nolink|}}
+|  Get damaged to below 50% health.
+|  Must select "50% Forme Power Construct" as a form for Zygarde on the starter select screen.
+|-
+|  **10%** \\ {{:starters:sprites:718-10.png?nolink|}}
+|  Selectable in Starter Select.
+|  Must have "10% Forme" as a form for Zygarde on the starter select screen.
+|-
+|  **Wishiwashi** \\ {{:starters:sprites:746.png?nolink|}}
+|  **School** \\ {{:starters:sprites:746-school.png?nolink|}}
+|  Be over level 20 with more than 25% of max HP.
+|  Going below 25% of max HP \\ will return Wishiwashi to solo form.
+|-
+|  **Minior** \\ {{:starters:sprites:774.png?nolink|}}
+|  **Core** \\ {{:starters:sprites:774-blue.png?nolink|}}
+|  Reach 50% or less of max HP.
+|
+|-
+|  **Mimikyu** \\ {{:starters:sprites:778.png?nolink|}}
+|  **Busted** \\ {{:starters:sprites:778-busted.png?nolink|}}
+|  Break through Mimikyu's Disguise ability.
+|
+|-
+|  rowspan="2" |  **Cramorant** \\ {{:starters:sprites:845.png?nolink|}}
+|  **Gulping** \\ {{:starters:sprites:845-gulping.png?nolink|}}
+|  Use Surf or Dive when above 50% health.
+|  Getting hit by an attack will return Cramorant to normal.
+|
+|-
+|  **Gorging** \\ {{:starters:sprites:845-gorging.png?nolink|}}
+|  Use Surf or Dive when under 50% health.
+|  Getting hit by an attack will return Cramorant to normal.
+|
+|-
+|  **Eiscue** \\ {{:starters:sprites:875.png?nolink|}}
+|  **No Ice** \\ {{starters:sprites:875-no-ice.png?nolink|}}
+|  Break through Eiscue's Ice Face ability.
+|  Will return Eiscue to Ice Face form at the end of every turn in Snow or Hail.
+|-
+|  **Morpeko** \\ {{:starters:sprites:877.png?nolink|}}
+|  **Hangry** \\ {{:starters:sprites:877-hangry.png?nolink|}}
+|  At the end of every turn.
+|  Switches back and forth between Full and Hangry.
+|-
+|  **Palafin** \\ {{:starters:sprites:964-zero.png?nolink|}}
+|  **Hero** \\ {{:starters:sprites:964-hero.png?nolink|}}
+|  Switch out of battle.
+|  Reverts out of Hero form at the start of a trainer battle or when the biome changes.
+|-
+|  **Ogerpon \\ Teal Mask** \\ {{:starters:sprites:1017-teal-mask.png?nolink|}}
+|  **Teal Mask Tera** \\ {{:starters:sprites:1017-teal-mask-tera.png?nolink|}}
+|  When a Grass-type Tera Shard is used on Teal Mask Ogerpon.
+|  Reverts back to Teal Mask Ogerpon automatically when the Tera Shard expires.
+|-
+|  **Ogerpon \\ Wellspring Mask** \\ {{:starters:sprites:1017-wellspring-mask.png?nolink|}}
+|  **Wellspring Mask Tera** \\ {{:starters:sprites:1017-wellspring-mask-tera.png?nolink|}}
+|  When a Water-type Tera Shard is used on Wellspring Mask Ogerpon.
+|  Reverts back to Wellspring Mask Ogerpon automatically when the Tera Shard expires.
+|-
+|  **Ogerpon \\ Hearthflame Mask** \\ {{:starters:sprites:1017-hearthflame-mask.png?nolink|}}
+|  **Hearthflame Mask Tera** \\ {{:starters:sprites:1017-hearthflame-mask-tera.png?nolink|}}
+|  When a Fire-type Tera Shard is used on Hearthflame Mask Ogerpon.
+|  Reverts back to Hearthflame Mask Ogerpon automatically when the Tera Shard expires.
+|-
+|  **Ogerpon \\ Cornerstone Mask** \\ {{:starters:sprites:1017-cornerstone-mask.png?nolink|}}
+|  **Cornerstone Mask Tera** \\ {{:starters:sprites:1017-cornerstone-mask-tera.png?nolink|}}
+|  When a Rock-type Tera Shard is used on Cornerstone Mask Ogerpon.
+|  Reverts back to Cornerstone Mask Ogerpon automatically when the Tera Shard expires.
+|-
+|  **Terapagos** \\ {{:starters:sprites:1024.png?nolink|}}
+|  **Terastal** \\ {{:starters:sprites:1024-terastal.png?nolink|}}
+|  At the start of the battle with the ability Tera Shift.
+|
+|-
+|  **Terapagos \\ Terastal** \\ {{:starters:sprites:1024-terastal.png?nolink|}}
+|  **Stellar** \\ {{:starters:sprites:1024-stellar.png?nolink|}}
+|  When a Stellar-type Tera Shard is used on Terastal Terapagos.
+|  Reverts back to Terastal Terapagos automatically when the Tera Shard expires.
+|}
+</panel>
+</accordion>
+
+\\
+
+=== Revavroom Forms ===
+
+These forms are currently unattainable by the player but can be encountered via Trainers. Starmobile forms are currently used by Team Star and these forms have various differences including: stats, types, and abilities.
+
+<accordion>
+<panel title="Click here to see all Revavroom forms and their base stats, abilities, and types.">
+{|style="width:100%;max-width:550px;text-align: center;border: 5px outset;table-layout:fixed;empty-cells:show;border-spacing: 4px;font-size:1.2em;"
+!colspan="3" style="text-align:center; font-size: 1.4em;"|Revavroom Forms
+|-
+<nowiki></nowiki>
+!rowspan="8"style="text-align:center"|Revavroom\\ {{starters:sprites:966.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Overcoat \\ Filter
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**500**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|80||119
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|90||54
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|67||90
+|-
+!rowspan="8"style="text-align:center"|Revavroom Segin Starmobile\\ {{starters:sprites:966-segin-starmobile.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_dark.png?nolink|}} \\ Intimidate
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||129
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||77
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|79||105
+|-
+!rowspan="8"style="text-align:center"|Revavroom Schedar Starmobile\\ {{starters:sprites:966-schedar-starmobile.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_fire.png?nolink|}} \\ Speed Boost
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||129
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||77
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|79||105
+|-
+!rowspan="8"style="text-align:center"|Revavroom Navi Starmobile\\ {{starters:sprites:966-navi-starmobile.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_poison.png?nolink|}} \\ Toxic Debris
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||129
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||77
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|79||105
+|-
+!rowspan="8"style="text-align:center"|Revavroom Ruchbah Starmobile\\ {{starters:sprites:966-ruchbah-starmobile.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_fairy.png?nolink|}} \\ Misty Surge
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||129
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||77
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|79||105
+|-
+!rowspan="8"style="text-align:center"|Revavroom Caph Starmobile\\ {{starters:sprites:966-caph-starmobile.png?nolink|}}\\ {{gameplay:types:en_steel.png?nolink|}}{{gameplay:types:en_fighting.png?nolink|}} \\ Stamina
+!colspan="2" style="text-align:center"|BST
+|-
+|colspan="2"|**600**
+|-
+!style="text-align:center"|HP!!style="text-align:center"|ATK
+|-
+|110||129
+|-
+!style="text-align:center"|DEF!!style="text-align:center"|SpATK
+|-
+|100||77
+|-
+!style="text-align:center"|SpDEF!!style="text-align:center"|SPD
+|-
+|79||105
+|-
+|}
+
+</panel>
+</accordion>
+
+
+\\
+----
+
+{{wst>navbox}}
+
