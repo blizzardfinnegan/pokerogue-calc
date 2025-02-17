@@ -11,7 +11,8 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "@types/node": "^18.11.9"
+    "@types/node": "^18.11.9",
+    "calc": "^0.0.2"
   },
   "devDependencies": {
     "@pkmn/dex": "^0.7.13",

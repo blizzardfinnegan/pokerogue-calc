@@ -67,7 +67,7 @@ function legacyStatToStat(st) {
 
 // input field validation
 var bounds = {
-	"level": [0, 100],
+	"level": [0, 500],
 	"base": [1, 255],
 	"evs": [0, 252],
 	"ivs": [0, 31],
@@ -474,7 +474,7 @@ $(".set-selector").change(function () {
 	if ($(this).hasClass('opposing')) {
 		topPokemonIcon(fullSetName, $("#p2mon")[0])
 		var currentTrainerMon = document.getElementsByClassName('opposite-pok')[0]
-		
+
 		if (isMonFromCurrentTrainer(currentTrainerMon, fullSetName)){
 			// don't reload
 		}else{
@@ -505,8 +505,8 @@ $(".set-selector").change(function () {
 			nextTrainerId = parseInt(trainerId) + 1;
 			previousTrainerId = nextTrainerId- monNumbers - 1 ;
 		}
-		
-		
+
+
 	} else {
 		topPokemonIcon(fullSetName, $("#p1mon")[0])
 	}
@@ -1523,7 +1523,7 @@ function truckMessage(){
 	var truckMsgId= Number(localStorage.getItem("truckMsg"));
 	if (truckMsgId == undefined){
 		truckMsgId = -1;
-	} 
+	}
 	truckMsgId+=1;
 	if(truckMsgId >= TRUCK_MESSAGES.length){
 		truckMsgId = 2;
@@ -1531,7 +1531,7 @@ function truckMessage(){
 	localStorage.setItem("truckMsg", truckMsgId);
 	//yaayy dynamic strings
 	return typeof TRUCK_MESSAGES[truckMsgId] === 'string' ? TRUCK_MESSAGES[truckMsgId] : TRUCK_MESSAGES[truckMsgId]() ;
-	
+
 }
 
 //select first mon of the box when loading
@@ -1604,7 +1604,7 @@ function resetTrainer() {
 			zone.innerHTML="";
 		}
 	}
-	
+
 }
 
 function HideShowCCSettings(){
@@ -1637,8 +1637,8 @@ function colorCodeUpdate(){
 		else if (ohkoCheck){
 			pMons[i].className = `trainer-pok left-side mon-dmg-${idColor.code}`;
 		}
-		
-		
+
+
 	}
 }
 function showColorCodes(){
@@ -1670,7 +1670,7 @@ function TrashPokemon() {
 	if (maybeMultiple.length == 0){
 		return; //nothing to delete
 	}
-	var numberPKM = maybeMultiple.length > 1 ? `${maybeMultiple.length} Pokemon(s)` : "this Pokemon"; 
+	var numberPKM = maybeMultiple.length > 1 ? `${maybeMultiple.length} Pokemon(s)` : "this Pokemon";
 	var yes = confirm(`do you really want to remove ${numberPKM}?`);
 	if (!yes) {
 		return;
@@ -1686,7 +1686,7 @@ function TrashPokemon() {
 	localStorage.setItem("customsets", JSON.stringify(customSets));
 	$('#box-poke-list')[0].click();
 	//switch to the next pokemon automatically
-	
+
 }
 function RemoveAllPokemon() {
 	document.getEle
@@ -1725,7 +1725,7 @@ function drop(ev) {
 		}else{
 			ev.target.appendChild(pokeDragged);
 		}
-			
+
 	}
 	// if it's a pokemon
 	else if(ev.target.classList.contains("left-side") || ev.target.classList.contains("right-side")) {
@@ -1920,7 +1920,7 @@ function switchIconSingle(){
 	for (toShow of document.getElementsByClassName("for-doubles")){
 		toShow.removeAttribute("hidden");
 	}
-	
+
 }
 
 function switchIconDouble(){
